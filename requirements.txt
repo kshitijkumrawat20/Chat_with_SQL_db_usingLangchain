@@ -1,0 +1,5 @@
+db-sqlite3
+langchain
+langchain_community
+langchain_groq
+mysql-connector-python
